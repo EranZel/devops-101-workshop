@@ -1,1 +1,1 @@
-FROM jfrogez.jfrog.io/ubuntu:16.04
+FROM jfrogez.jfrog.io/docker/ubuntu:16.04
